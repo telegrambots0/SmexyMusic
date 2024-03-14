@@ -2,7 +2,7 @@ from pyrogram import filters
 from pyrogram.types import Message
 
 from VenomX import app
-from VenomX.core.call import Ayush
+from VenomX.core.call import SmexyOP
 from VenomX.utils.database import is_music_playing, music_on
 from VenomX.utils.decorators import AdminRightsCheck
 from VenomX.utils.inline import close_markup
