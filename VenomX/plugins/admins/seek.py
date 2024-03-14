@@ -2,7 +2,7 @@ from pyrogram import filters
 from pyrogram.types import Message
 
 from VenomX import YouTube, app
-from VenomX.core.call import Ayush
+from VenomX.core.call import SmexyOP
 from VenomX.misc import db
 from VenomX.utils import AdminRightsCheck, seconds_to_min
 from VenomX.utils.inline import close_markup
