@@ -1,4 +1,4 @@
-from VenomX.core.bot import Ayush
+from VenomX.core.bot import SmexyOP
 from VenomX.core.dir import dirr
 from VenomX.core.git import git
 from VenomX.core.userbot import Userbot
@@ -11,7 +11,7 @@ git()
 dbb()
 heroku()
 
-app = Ayush()
+app = SmexyOP()
 userbot = Userbot()
 
 
