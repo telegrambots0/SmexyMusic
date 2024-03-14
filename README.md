@@ -7,7 +7,9 @@
 
 <p align="center">
   <img src="https://graph.org/file/c9669066860d912fd5035.jpg">
+
 Contact: [Telegram](https://t.me/SmexyOP)
+
 </p>
 
 <p align="center">
